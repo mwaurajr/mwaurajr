@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at Moringa school 
 - 💞️  I’m looking to collaborate with like minded software Engineers on various projects in interest on Artificial Intelligence(AI)
 - 📫 Feel free to ping me on Email: mwaurafrankiline@gmail.com
--     When I am free, I love playing video games add me up on PSN ID:tenmark86)
+-     When I am free, I love playing video games 
 
 <!---
 mwaurajr/mwaurajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
