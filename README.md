@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <!--
 **mwaurajr/mwaurajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 👋 Hey there, I'm Mwaura Frankiline!
 
@@ -25,5 +23,3 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: My birthday aligns with Kenya's Independence Day – a serendipitous connection that adds a unique spark to my name! 😄
 
-
--->
