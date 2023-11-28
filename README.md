@@ -23,6 +23,7 @@ Here are some ideas to get you started: -->
 
 ⚡ Fun fact: My birthday aligns with Kenya's Independence Day – a serendipitous connection that adds a unique spark to my name! 😄
 
+![Frankiline's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwaurajr&theme=radical)
 
 <h2> 🚀 &nbsp;My Arsenal of Tech Tools and Expertise</h2>
 <p align="center">
