@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 
 ![Frankiline's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwaurajr&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaurajr)]
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaurajr)]-->
 
 <h2> 🚀 &nbsp;My Arsenal of Tech Tools and Expertise</h2>
 <p align="center">
