@@ -23,3 +23,24 @@ Here are some ideas to get you started: -->
 
 ⚡ Fun fact: My birthday aligns with Kenya's Independence Day – a serendipitous connection that adds a unique spark to my name! 😄
 
+
+<h2> 🚀 &nbsp;My Arsenal of Tech Tools and Expertise</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" height="45" alt="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="45" height="45" alt="Ruby on Rails"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" alt="Next.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" width="45" height="45" alt="Vim"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="45" height="45" alt="SQLite"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+</p>
+<h3>Mastering the Symphony of Tech:</h3>
+<p>Embracing the dance of HTML5 & CSS3, painting interfaces with Tailwind CSS, and orchestrating logic with Ruby on Rails.</p>
+<p>Scripting wonders with JavaScript, crafting dynamic experiences through React and Next.js.</p>
+<p>Engaging in the artistry of code in Vim or with the versatile canvas of VSCode.</p>
+<p>Storing data securely in the realms of SQLite and PostgreSQL.</p>
