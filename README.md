@@ -23,7 +23,9 @@ Here are some ideas to get you started: -->
 
 ⚡ Fun fact: My birthday aligns with Kenya's Independence Day – a serendipitous connection that adds a unique spark to my name! 😄
 
-![Frankiline's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwaurajr&theme=radical)
+<!--![Frankiline's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwaurajr&theme=radical)-->
+
+![Frankiline's Github stats](https://github-readme-stats-sand-ten-17.vercel.app/api?username=mwaurajr&theme=radical)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaurajr)]-->
 
